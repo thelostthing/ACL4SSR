@@ -26,7 +26,7 @@
 # 禁止访问列表
 
 # ingressImg
-(^|\.)lh[1-9]\.ggpht\.com
+(^|\.)lh[1-9]\.ggpht\.com$
 
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
