@@ -28,7 +28,7 @@
 # ingressImg
 (^|\.)lh[1-9]\.ggpht\.com$
 (^|\.)mw2\.google\.com$
-(^|\.)lh3\.googleusercontent\.com$
+# (^|\.)lh3\.googleusercontent\.com$
 
 # 广告关键词
 (^|\.)\w*admarvel\w*\..*$
